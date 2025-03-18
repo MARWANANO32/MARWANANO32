@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on ALX Company
-- 📫 How to reach me marwanano32@gmail.com
+- 📫 How to reach me marwan.mf.tech@gmail.com
 - 😄 Pronouns: HE
 - ⚡ Fun fact: programming languages
 

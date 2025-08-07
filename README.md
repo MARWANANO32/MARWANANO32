@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on ALX Company
 - 📫 How to reach me marwan.mf.tech@gmail.com
-- 😄 Pronouns: HE
 - ⚡ Fun fact: programming languages
 
 <!---
